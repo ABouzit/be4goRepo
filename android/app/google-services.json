@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "342444537279",
+    "firebase_url": "https://budget-voyage.firebaseio.com",
+    "project_id": "budget-voyage",
+    "storage_bucket": "budget-voyage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342444537279:android:d5ed982c4975b3af48dd0a",
+        "android_client_info": {
+          "package_name": "com.be4goapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342444537279-8d31h0hnmdc8tc8cg56g6b7hu45m6s63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsH0GFv-fgF4dDC_mnSjWEn5nhkSnBtVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342444537279-8d31h0hnmdc8tc8cg56g6b7hu45m6s63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342444537279-0np8rmslkdn954ge8lr61qdaqu3p2e62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.budget-voyage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342444537279:android:7076da2100cca561",
+        "android_client_info": {
+          "package_name": "com.budget_voyage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342444537279-nb84jrl6ds44v2fd51r2poovifk4tied.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.budget_voyage",
+            "certificate_hash": "b5257ad3cdd48846bbb528338c6350f121857333"
+          }
+        },
+        {
+          "client_id": "342444537279-r5vj49sc9h0c4j7heatufl75cv2m1vdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.budget_voyage",
+            "certificate_hash": "0b4435b903dc0d42650f727ea86c452394ee4544"
+          }
+        },
+        {
+          "client_id": "342444537279-vv0dflr53df99no0lnt248ntf504tmtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.budget_voyage",
+            "certificate_hash": "d1e817a228366b801bf9357ad8ec8754d089fc62"
+          }
+        },
+        {
+          "client_id": "342444537279-8d31h0hnmdc8tc8cg56g6b7hu45m6s63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsH0GFv-fgF4dDC_mnSjWEn5nhkSnBtVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342444537279-8d31h0hnmdc8tc8cg56g6b7hu45m6s63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342444537279-0np8rmslkdn954ge8lr61qdaqu3p2e62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.budget-voyage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
