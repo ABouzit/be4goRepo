@@ -41,7 +41,7 @@ target 'be4goApp' do
 
   pod 'RNGoogleSignin', :path => '../node_modules/react-native-google-signin'
 
-  pod 'RNFirebase', :path => '../node_modules/react-native-firebase'
+  pod 'RNFirebase', :path => '../node_modules/react-native-firebase/ios'
 
   pod 'react-native-fbsdk', :path => '../node_modules/react-native-fbsdk'
 
